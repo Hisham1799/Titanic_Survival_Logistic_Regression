@@ -115,6 +115,12 @@ The Logistic Regression model provided reasonable accuracy and insight into the 
 
 **Note**: Accuracy could potentially be improved by incorporating more features or using more complex models.
 
+## Screenshots
+![Code Screenshots](Screenshots/Screenshot1.png)
+![Code Screenshots](Screenshots/Screenshot2.png)
+![Code Screenshots](Screenshots/Screenshot3.png)
+![Code Screenshots](Screenshots/Screenshot4.png)
+
 ## How to Run
 
 1. Clone the repository:
